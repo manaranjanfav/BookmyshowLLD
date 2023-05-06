@@ -29,4 +29,28 @@ Client\
 9.Give ratings and Feedback\
 10.Order Food
 
+Theater manager or Event organiser\
+1.Registration and login\
+2.Create Event\
+3.Update Event\
+4.Cancel Event
+
+Customer Support\
+1.Resolve booking issues\
+2.Resolve payment issue\
+3.Answer general Queries
+
+Payment Gateway\
+1.Process payments\
+2.Provide different payment methods\
+3.Refunds and cancellation
+
+System
+1.Managing clients accounts/
+2.Price and Discount managing/
+3.Managing ticket availability/
+4.Managing movie or events/
+5.Managing technical problems
+
+
 
