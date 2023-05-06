@@ -1,10 +1,10 @@
 Bookmyshow Low level design Requirements
 
-
-Actors
-1.clients
-2.Movie Theaters
-3. system
+Fundamental Requirements.\
+1.Users Registration\
+2.Browse movie and events\
+3.Book tickets
+4.
 
 
 
