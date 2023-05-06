@@ -1,3 +1,4 @@
+<pre>
 Bookmyshow Low level design Requirements
 
 Fundamental Requirements.\
@@ -52,5 +53,5 @@ System
   4.Managing movie or events/
   5.Managing technical problems
 
-
+</pre>
 
